@@ -7,7 +7,6 @@
 -  ⚡ Fun fact: I love music, coding, and basketball.
 
  
-<!-- Skills & Tools badges (copy into your README or HTML page) -->
 <style>
   .skills {
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
@@ -18,6 +17,7 @@
   .badges { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
   .badges img { height: 30px; display: inline-block; }
 </style>
+
 
 <div class="skills">
   <!-- Programming & Tools -->
