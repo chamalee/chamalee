@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chamalee Wickrama Arachchi.
 - 👀 I’m a data analyst who enjoys documenting her learning journey.
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
-- 🌱 I’m currently learning Microsoft Power Apps.
+- 🌱 I’m currently learning Snowflake, DBT, and Frends.
 - 💬 Ask me about Data Analytics.
 - 📫 How to reach me chamalee.wickramaarachch@helsinki.fi
 -  ⚡ Fun fact: I love music, coding, and basketball.
